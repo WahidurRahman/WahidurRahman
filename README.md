@@ -1,6 +1,6 @@
 
 # Wahidur Rahman
-I'm Adrian from Bangladesh, Sylhet, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+I'm WahidurRahman from Bangladesh, Sylhet, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
 ## Skills and Experience
 * ⚛ React
