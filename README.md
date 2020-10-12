@@ -1,7 +1,14 @@
-### Here is what I'm working on!! 👋
+
+# Wahidur Rahman
+I'm Adrian from Bangladesh, Sylhet, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 <!-- 
-**WahidurRahman/WahidurRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**WahidurRahman/WahidurRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -13,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [YouTube Channel] (http://youtube.com/geekeducation)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Iam half Fninsh 
+-->
