@@ -4,7 +4,7 @@ As a resourceful and adept full-stack web developer with two years of experience
 
 ## Skills and Experience
 * ⚛ React, PHP
-* 📱 Laravel <3
+* ❤️ Laravel <3
 * 💻 HTML, CSS, JS
 
 <!-- 
