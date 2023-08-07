@@ -1,10 +1,10 @@
 ![Design and Development](https://raw.githubusercontent.com/WahidurRahman/WahidurRahman/main/Untitled-1.jpg)
 # Wahidur Rahman
-I'm WahidurRahman from Bangladesh, Sylhet, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+As a resourceful and adept full-stack web developer with two years of experience in front-end development, I excel at constructing practical and user-friendly platforms. I am proficient in various technologies such as HTML, CSS, JS, and WordPress and have released simple Android apps on Google Play. My primary goal is to deliver innovative user experiences and clean code while seeking challenging work environments that nurture my skills and promote continued professional growth. 
 
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
+* ⚛ React, PHP
+* 📱 Laravel <3
 * 💻 HTML, CSS, JS
 
 <!-- 
